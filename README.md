@@ -1,3 +1,3 @@
 # apnacollege-demo
-This my first repository
-Author - Mohaimenur
+This my first repository.
+Author - Mohaimenur Rahman.
